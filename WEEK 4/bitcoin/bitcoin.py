@@ -1,7 +1,7 @@
 import requests
 import sys
 
-api_key = "dcc468f575d191cf677f40a903bc3deb0a0257eaf3d39a3293c5dddcaa9578da"
+api_key = "API_KEY"
 api_url = f"https://rest.coincap.io/v2/assets/bitcoin?apiKey={api_key}"
 
 if len(sys.argv) == 2:
