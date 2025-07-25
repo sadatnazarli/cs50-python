@@ -41,8 +41,6 @@ Solutions are added daily as I work through each week's problem sets. Check back
 
 🌐 [sadatnazarli.com](https://sadatnazarli.com)
 💼 [LinkedIn](https://linkedin.com/in/sadatnazarli)
-🐙 [GitHub](https://github.com/sadatnazarli)
-
 ---
 
 *This repository serves as a portfolio piece demonstrating my Python programming journey through Harvard's CS50P course.*
